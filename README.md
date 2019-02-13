@@ -1,1 +1,1 @@
-Fireworks display written in java.
+Fireworks display I wrote in Java a few years ago.
